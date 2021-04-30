@@ -38,7 +38,8 @@ Currently, I'm learning about <strong>Vue.js, React.js and Power BI.</strong>
 ![ECLIPSE Badge](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse)
 
 <h2>⚡ GitHub Stats</h2>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AugustoCesar&show_icons=true&theme=tokyonight)  
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AugustoCesar&show_icons=true&theme=vue-dark)
 <!---
 AugustoCesar/AugustoCesar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
