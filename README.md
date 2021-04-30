@@ -31,12 +31,19 @@ Now, I'm open to work.
 
 
 <h2>You can find me</h2>
+<p>
+  <a href="mailto:augustocesar.udi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/augusto-cesar-fn/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/AugustoCesar" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white/></a>
+</p>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:augustocesar.udi@gmail.com)](mailto:augustocesar.udi@gmail.com?target=_blank)
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-cesar-fn/?target=_blank)
-[![GITHUB Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AugustoCesar?target=_blank)
+<!--
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:augustocesar.udi@gmail.com)](mailto:augustocesar.udi@gmail.com target="_blank")
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-cesar-fn/ target="_blank")
+[![GITHUB Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AugustoCesar target="_blank")
+-->
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=AugustoCesar) 
+<!--![YOUR github stats](https://github-readme-stats.vercel.app/api?username=AugustoCesar) -->
   
 <!---
 AugustoCesar/AugustoCesar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
