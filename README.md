@@ -1,13 +1,12 @@
 <h1>Hello, I am Augusto</h1>
 
 Front-end Developer student. 
-I'm currently learning about Vue.js, React.js and Power BI.
+I am always revising / relearning / consolidating knowledge through courses on some online teaching platforms.
+Currently, I'm learning about Vue.js, React.js and Power BI.
 
 Now, I'm open to work.
 
 <h2>Languages</h2>
- 
-I am always revising / relearning / consolidating knowledge through courses on some online teaching platforms.
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -34,7 +33,7 @@ I am always revising / relearning / consolidating knowledge through courses on s
 <h2>You can find me</h2>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:augustocesar.udi@gmail.com)](mailto:augustocesar.udi@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-cesar-fn/)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-cesar-fn/){:target="_blank"}
 [![GITHUB Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AugustoCesar)
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=AugustoCesar) 
