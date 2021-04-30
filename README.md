@@ -2,9 +2,10 @@
 
 Front-end Developer student. 
 I am always revising / relearning / consolidating knowledge through courses on some online teaching platforms.
+
 Currently, I'm learning about <strong>Vue.js, React.js and Power BI.</strong>
 
-<u>Now, I'm open to work.</u>
+<strong>Now, I'm open to work.</strong>
 
 <h2>You can find me</h2>
 
@@ -37,8 +38,7 @@ Currently, I'm learning about <strong>Vue.js, React.js and Power BI.</strong>
 ![ECLIPSE Badge](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse)
 
 <h2>⚡ GitHub Stats</h2>
-![MY github stats](https://github-readme-stats.vercel.app/api?username=AugustoCesar)
-  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AugustoCesar&show_icons=true&theme=tokyonight)  
 <!---
 AugustoCesar/AugustoCesar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
