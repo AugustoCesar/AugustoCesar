@@ -3,7 +3,7 @@
 Front-end Developer student. 
 I am always revising / relearning / consolidating knowledge through courses on some online teaching platforms.
 
-Currently, I'm learning about <strong>Vue.js, React.js and Power BI.</strong>
+Currently, I'm learning about <strong>SpringBoot, React.js and Power BI.</strong>
 
 <strong>Now, I'm open to work.</strong>
 
