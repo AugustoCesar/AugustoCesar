@@ -5,7 +5,7 @@ I am always revising / relearning / consolidating knowledge through courses on s
 
 Currently, I'm learning about <strong>SpringBoot, React.js and Power BI.</strong>
 
-<strong>Now, I'm open to work.</strong>
+<!--<strong>Now, I'm open to work.</strong>-->
 
 <h2>You can find me</h2>
 
@@ -21,7 +21,6 @@ Currently, I'm learning about <strong>SpringBoot, React.js and Power BI.</strong
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JAVA Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 <h2>🚀 Frameworks</h2>
 
@@ -31,12 +30,12 @@ Currently, I'm learning about <strong>SpringBoot, React.js and Power BI.</strong
 ![NPM Badge](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![BOOTSTRAP Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![BULMA Badge](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white)
-![POWER BI Badge](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 
 <h2>💻 IDE</h2>
 
 ![VSCODE Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![ECLIPSE Badge](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse)
+![INTELLIJ Badge](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 <h2>⚡ GitHub Stats</h2>
 
