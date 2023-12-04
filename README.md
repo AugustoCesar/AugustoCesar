@@ -1,9 +1,9 @@
-<h1>Hello, I am Augusto</h1>
+<h1>Hello, I'm Augusto Nunes</h1>
 
-Full-Stack Developer student. 
-I am always revising / relearning / consolidating knowledge through courses on some online teaching platforms.
+<strong>Back End Java Developer</strong> with experience.<br>
 
-Currently, I'm learning about <strong>SpringBoot and React.js.</strong>
+I'm always revising / relearning / consolidating knowledge through courses on some online teaching platforms.
+
 
 <!--<strong>Now, I'm open to work.</strong>-->
 
@@ -14,30 +14,42 @@ Currently, I'm learning about <strong>SpringBoot and React.js.</strong>
 [![GITHUB Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AugustoCesar)
 
 
-<h2>💻 Languages</h2>
+<h2>👩‍💻 Languages</h2>
 
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JAVA Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-<h2>🚀 Frameworks</h2>
+<h2>🚀 Frameworks & Library </h2>
 
-![REACT Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![SPRING Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![APACHE KAFKA Badge](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![DOCKER Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![POSTMAN Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![REACT Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![YARN Badge](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 ![NPM Badge](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![BOOTSTRAP Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![BULMA Badge](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white)
 
 <h2>💻 IDE</h2>
 
-![VSCODE Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![ECLIPSE Badge](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse)
 ![INTELLIJ Badge](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![ECLIPSE Badge](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse)
+![VSCODE Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-<h2>⚡ GitHub Stats</h2>
+<h2>⚡ Databases</h2>
+
+![MYSQL Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MONGODB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+<h2>⏱️ Workflow Platforms</h2>
+
+![JENKINS Badge](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+![JIRA Badge](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+
+
+
+<h2>📟 GitHub Stats</h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AugustoCesar&show_icons=true&theme=vue-dark)
 <!---
