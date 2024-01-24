@@ -1,8 +1,10 @@
 <h1>Hello, I'm Augusto Nunes</h1>
 
-<strong>Back End Java Developer</strong> with experience.<br>
+<strong>Java Software Developer</strong> with experience.<br>
 
-I'm always revising / relearning / consolidating knowledge through courses on some online teaching platforms.
+I'm always revising / relearning / consolidating knowledge.
+
+Experience with Java, Microservices, Kafka Messaging, Spring Boot Framework, MySQL, Docker, MongoDB. 
 
 
 <!--<strong>Now, I'm open to work.</strong>-->
